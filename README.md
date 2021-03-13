@@ -1,8 +1,3 @@
-### Hi, I'm SkyDonald
-
-[![discord](https://discord.com/api/guilds/784773050956513290/widget.png)](https://discord.gg/nrReAmApVJ)
-
-
 
 - 🔭 I’m currently working on a Discord bot : [Green-bot](https://green-bot.xyz)
 - 📫 How to reach me: [Discord](https://discord.com/users/688402229245509844)
