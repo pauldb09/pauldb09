@@ -10,10 +10,5 @@
 - [<img src="https://bots-co.ga/assets/img/logo-square.jpg" width="24"/> Bots & Co](https://bots-co.xyz)
 
 
-<p align="left"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/pauldb09/count.svg" />
-</p>
-
 <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=pauldb09&show_icons=true&hide_border=true&theme=tokyonight" />
 <img alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauldb09&show_icons=true&theme=tokyonight&layout=compact" />
