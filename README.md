@@ -6,7 +6,7 @@
 
 ## 🚩 Projects:
 - [<img src="https://tutos-du-web.com/img/icone.png" width="24"/> Tutos du web](https://tutos-du-web.com/)
-- [<img src="https://cdn.discordapp.com/avatars/783708073390112830/3d5a0b798ef6d28df06cbcfdbf697d98.png?size=2048" width="24"/> Green-bot](https://green-bot.xyz)
+- [<img src="https://cdn.discordapp.com/avatars/783708073390112830/3d5a0b798ef6d28df06cbcfdbf697d98.png?size=2048" width="24"/> Green-bot](http://green-bot.xyz)
 - [<img src="https://bots-co.ga/assets/img/logo-square.jpg" width="24"/> Bots & Co](https://bots-co.xyz)
 
 
