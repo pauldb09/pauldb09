@@ -3,6 +3,7 @@
 - 📫 How to reach me: [Discord](https://discord.com/users/688402229245509844)
 - 💻 I use [Visual Studio Code](https://code.visualstudio.com)
 - 🥖 I live in Paris
+- 🎶 I like listenning music
 
 ## 🚩 Projects:
 - [<img src="https://tutos-du-web.com/img/icone.png" width="24"/> Tutos du web](https://tutos-du-web.com/)
