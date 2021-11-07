@@ -4,7 +4,7 @@
 - 💻 I use [Visual Studio Code](https://code.visualstudio.com)
 - 🥖 I live in Paris
 - 🎶 I like listenning music
-- 🔧 Skills: NodeJs, PHP, Javascript, HTML and a little of jave
+- 🔧 Skills: NodeJs, PHP, Javascript, HTML, vuejs, java
 ## Request help
 - You can contact me on private message, on discord.
 - You can join [This server](https://discord.gg/SQsBWtjzTv) too.
