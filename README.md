@@ -6,7 +6,7 @@
 - 🎶 I like listenning music
 - 🔧 Skills: NodeJs, PHP, Javascript, HTML, vuejs, java, express js
 ## Request help
-- You can contact me on private message, on discord.
+- You can contact me on private messages, on discord.
 - You can join [This server](https://discord.gg/SQsBWtjzTv) too.
 
 
