@@ -1,15 +1,16 @@
 ### 👋 Hey I am Pauldb09!
 
-I am a freelance developper
+I am a freelance developper 😎
 
 - 🔭 I’m currently working on a Discord bot : [Green-bot](https://green-bot.app)
 - 📫 How to reach me: [Discord](https://discord.com/users/688402229245509844)
-- 💻 I use [Visual Studio Code](https://code.visualstudio.com)
-- 🥖 I live in Paris
-- 🎶 I like listenning music
+- 💻 I use [Visual Studio Code](https://code.visualstudio.com) as editor but I love JetBrains too.
+- 🥖 I live in Paris, in France
+- 🎶 I like listenning music. Specially with my music bot
 - 🔧 Skills: NodeJs, PHP, Javascript, HTML, vuejs, java, express js
+
 ## Request help
-- You can contact me on private messages, on discord.
+- You can contact me on private messages, on [Discord](https://discord.com/users/688402229245509844).
 - You can join [This server](https://discord.gg/SQsBWtjzTv) too.
 
 
