@@ -1,4 +1,7 @@
 ### 👋 Hey I am Pauldb09!
+
+I am a freelance developper
+
 - 🔭 I’m currently working on a Discord bot : [Green-bot](https://green-bot.app)
 - 📫 How to reach me: [Discord](https://discord.com/users/688402229245509844)
 - 💻 I use [Visual Studio Code](https://code.visualstudio.com)
