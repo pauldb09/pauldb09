@@ -1,6 +1,6 @@
 ## 👋 Hey I am Pauldb09!
 
-- 🔭 I’m currently working on a Discord bot : [Green-bot](https://green-bot.app)
+- 🔭 I’m currently working on a Discord bot: [Green-bot](https://green-bot.app)
 - 📫 How to reach me: [My discord server](https://discord.gg/Wkbpa4y8JW)
 - 💻 I use [Visual Studio Code](https://code.visualstudio.com) as editor but I love JetBrains too.
 - 🥖 I live in Paris, in France
