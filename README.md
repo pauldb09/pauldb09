@@ -10,4 +10,4 @@
 - If you want to talk directly to me, add me on discord: `Pauldb09#0001`
 
 
-<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=pauldb09&show_icons=true&hide_border=true" />
+<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=pauldb09&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&hide=contribs,prs" />
