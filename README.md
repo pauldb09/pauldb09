@@ -1,8 +1,11 @@
-## 👋 Hey there I am Pauldb09!
+## 👋 Hey there!
 
 I'm a **Passionate** and selflearning web developer
+
 You can reach me easyly on [my discord server](https://discord.gg/Wkbpa4y8JW)
+
 Yay, i live in Paris 🥖 , France
+
 🔧 Skills: NodeJs, PHP, Javascript, HTML, vuejs, java, express js
 
 ## Do you need anything???
