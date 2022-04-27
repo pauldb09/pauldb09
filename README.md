@@ -1,14 +1,13 @@
-## 👋 Hey I am Pauldb09!
+## 👋 Hey there I am Pauldb09!
 
-- 🔭 I’m currently working on a Discord bot: [Green-bot](https://green-bot.app)
-- 📫 How to reach me: [My discord server](https://discord.gg/Wkbpa4y8JW)
-- 💻 I use [Visual Studio Code](https://code.visualstudio.com) as editor but I love JetBrains too.
-- 🥖 I live in Paris, in France
-- 🎶 I like listenning music. Specially with my music bot
-- 🔧 Skills: NodeJs, PHP, Javascript, HTML, vuejs, java, express js
+I'm a **Passionate** and selflearning web developer
+You can reach me easyly on [my discord server](https://discord.gg/Wkbpa4y8JW)
+Yay, i live in Paris 🥖 , France
+🔧 Skills: NodeJs, PHP, Javascript, HTML, vuejs, java, express js
 
-## Request help
-- You can join [This server](https://discord.gg/Wkbpa4y8JW) and i'll help you.
+## Do you need anything???
+- You can join [this server](https://discord.gg/Wkbpa4y8JW) if you need help with one of my projects
+- If you want to talk directly to me, add me on discord: `Pauldb09#0001`
 
 
 <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=pauldb09&show_icons=true&hide_border=true&theme=tokyonight" />
