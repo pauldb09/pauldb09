@@ -3,7 +3,7 @@
 - I'm a **passionate** selflearning web developer
 - You can reach me easyly on [my discord server](https://discord.gg/Wkbpa4y8JW)
 - I'm from Paris, France!
-- Things I know: NodeJs, PHP (Object oriented & basic ) ,TypeScript, Javascript, HTML, vuejs, java, express js, design, marketing
+- Things I know: NodeJs, PHP (Object oriented & basic ) ,Javascript ( and TS ), HTML & CSS, nextjs, java, C, design, marketing
 
 ## Do you need anything?
 - You can join [this server](https://discord.gg/Wkbpa4y8JW) if you need help with one of my projects
